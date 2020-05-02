@@ -94,3 +94,10 @@ blockquote::before {
 	margin: 0px;
 	padding-left: 20px;
 	}
+
+	.line {
+		width: 800px;
+		margin: auto;
+		height: 5px;
+	  background: #424242;
+			}
